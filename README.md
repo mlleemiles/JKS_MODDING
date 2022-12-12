@@ -19,7 +19,7 @@ Next up open a bundle file with UABEAvalonia. The program will ask you where to 
 
 Click on info to check the file's content:
 
-For text files, you can export dump and reimport dump for your edits. For textures, use **Plugin** function to import your new texture!
+For text files, you can export dump and reimport dump for your edits. For textures, use **Plugins** function to import your new texture!
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/536983241979068422/1051680372582264862/image.png" width="75%" height="75%"/></p>
 
