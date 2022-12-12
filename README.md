@@ -33,3 +33,6 @@ Example of an edited text file in game:
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/536983241979068422/1051475609970278400/image.png" width="75%" height="75%"/></p>
 
+## Credits
+[UABEAvalonia](https://github.com/nesrak1/UABEA)
+
